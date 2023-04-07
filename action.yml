@@ -24,3 +24,7 @@ runs:
       run: |
         rm *.log
         docker container prune -f
+
+branding:
+  icon: 'x'
+  color: 'gray-dark'

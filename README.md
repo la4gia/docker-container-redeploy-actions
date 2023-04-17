@@ -15,5 +15,5 @@ jobs:
   re-deploy:
     runs-on: self-hosted
     steps:
-      - uses: la4gia/docker-container-redeploy-actions@v0.0.0-alpha
+      - uses: la4gia/docker-container-redeploy-actions@v1.0
 ```
